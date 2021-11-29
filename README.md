@@ -18,7 +18,7 @@
   <img align="center" alt="Namie-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Namie-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Namie-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+   </div>
   
   
   ##
@@ -31,6 +31,12 @@
     </div>
 
 ![Snake animation](https://github.com/Baabie/Baabie/blob/output/github-contribution-grid-snake.svg)
+  
+  <div align="center">
+       <h3>A little abou myself ʕ •ᴥ•ʔ</h3>
+       <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://media3.giphy.com/media/3yBmlfwaH0Ll9L00RC/giphy.gif?cid=790b7611c11f892597405dc3930dd9f8f88ea9dd0871cb41&rid=giphy.gif&ct=s">
+  </div>
+    
 
     
  - 🎮 On my free tim, I like to draw and study animation.  
