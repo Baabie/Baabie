@@ -1,4 +1,4 @@
-# Hii my name is Pâmella Namie Nomura 😸
+# Hii my name is Pâmella Namie Nomura ʕっ• ᴥ • ʔっ
 
 
 
