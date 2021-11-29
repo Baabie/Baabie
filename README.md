@@ -1,4 +1,14 @@
 # Hii my name is Pâmella Namie Nomura 😸
+<div align="center">
+  <a href="https://github.com/Baabie">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+
+
+
 [![ ](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/pamella-namie-4407b9222/)
 
 <!--
