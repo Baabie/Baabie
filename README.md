@@ -1,4 +1,5 @@
-# Olá me chamo Pâmella Namie Nomura 👋
+# Hii my name is Pâmella Namie Nomura 😸
+[![ ](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/pamella-namie-4407b9222/)
 
 <!--
 **Baabie/Baabie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
