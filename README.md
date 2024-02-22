@@ -36,10 +36,10 @@
   </div>
 
     
- - 🎮 On my free tim, I like to draw and study animation.  
- - ☀️ I prefer the weather not too hot and not too cold.
- - 🗺️ I live in brazil, São Paulo. I have plans for the future of living and working abroad 🛫.
- - 🎵 I love listening to Lofi music while studying, playing and drawing it makes me calmer.
+ - 🎮 Nas horas vagas gosto de desenhar e estudar animação. 
+ - ☀️ Prefiro o clima nem muito quente e nem muito frio.
+ - 🗺️ Moro no Brasil, São Paulo. Tenho planos para o futuro de viver e trabalhar no exterior 🛫, ou apenas morar em uma chácara em algum lugar pacífico.
+ - 🎵 Adoro ouvir música do Lofi enquanto estudo ou desenho isso me deixa mais calmo.
     
 
 
