@@ -2,8 +2,6 @@
 
 
 
-
-
 <div align="center">
   <a href="https://github.com/Baabie">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Baabie&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -36,7 +34,6 @@
        <h3>A little abou myself ʕ •ᴥ•ʔ</h3>
        <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://media3.giphy.com/media/3yBmlfwaH0Ll9L00RC/giphy.gif?cid=790b7611c11f892597405dc3930dd9f8f88ea9dd0871cb41&rid=giphy.gif&ct=s">
   </div>
-    
 
     
  - 🎮 On my free tim, I like to draw and study animation.  
@@ -44,3 +41,17 @@
  - 🗺️ I live in brazil, São Paulo. I have plans for the future of living and working abroad 🛫.
  - 🎵 I love listening to Lofi music while studying, playing and drawing it makes me calmer.
     
+======================================================================================================================================================================================================================
+
+
+⌨️ __Formação :__ 
+Atualmente estudando na Growdev no programa starte web full stack.
+
+ __Experiências profissionais :__
+Prficionalmente ainda não tenho experiência, mas já participei de concursos onde se juntam um grupo para desenvolver jogos.
+
+__Linguagem de Programação favorita / O que está estudando atualmente :__
+Comecei a estudar a pouco tempo então ainda não tenho uma linguagem favorita. Atualmente estou estudando HTML, CSS e JavaScript.
+
+ 
+
