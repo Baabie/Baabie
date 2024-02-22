@@ -41,7 +41,6 @@
  - 🗺️ I live in brazil, São Paulo. I have plans for the future of living and working abroad 🛫.
  - 🎵 I love listening to Lofi music while studying, playing and drawing it makes me calmer.
     
-======================================================================================================================================================================================================================
 
 
 ⌨️ __Formação :__ 
