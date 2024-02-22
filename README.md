@@ -46,10 +46,10 @@
 ⌨️ __Formação :__ 
 Atualmente estudando na Growdev no programa starte web full stack.
 
- __Experiências profissionais :__
+ ✏️ __Experiências profissionais :__
 Prficionalmente ainda não tenho experiência, mas já participei de concursos onde se juntam um grupo para desenvolver jogos.
 
-__Linguagem de Programação favorita / O que está estudando atualmente :__
+✏️ __Linguagem de Programação favorita / O que está estudando atualmente :__
 Comecei a estudar a pouco tempo então ainda não tenho uma linguagem favorita. Atualmente estou estudando HTML, CSS e JavaScript.
 
  
