@@ -21,8 +21,7 @@
   
   ##
   
-  <div>
-  <a href="https://www.instagram.com/babiee_chan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <div> 
   <a href = "mailto:pamella.namie@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pamella-namie-4407b9222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </div>
@@ -31,7 +30,7 @@
 ![Snake animation](https://github.com/Baabie/Baabie/blob/output/github-contribution-grid-snake.svg)
   
   <div align="center">
-       <h3>A little abou myself ʕ •ᴥ•ʔ</h3>
+       <h3>Um pouco sobre mim ʕ •ᴥ•ʔ</h3>
        <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://media3.giphy.com/media/3yBmlfwaH0Ll9L00RC/giphy.gif?cid=790b7611c11f892597405dc3930dd9f8f88ea9dd0871cb41&rid=giphy.gif&ct=s">
   </div>
 
