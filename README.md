@@ -24,6 +24,8 @@
   <div> 
   <a href = "mailto:pamella.namie@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pamella-namie-4407b9222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    [Linkedin](https://www.linkedin.com/in/pamella-namie-4407b9222/){:target="_blank"}
+
     </div>
     </div>
 
