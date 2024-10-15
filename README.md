@@ -27,7 +27,6 @@
     </div>
     </div>
 
-![Snake animation](https://github.com/Baabie/Baabie/blob/output/github-contribution-grid-snake.svg)
   
   <div align="center">
        <h3>Um pouco sobre mim ʕ •ᴥ•ʔ</h3>
